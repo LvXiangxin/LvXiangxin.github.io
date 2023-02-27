@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lv Xiangxin"
   avatar           : "证件照.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Junior Student at Nanjing University"
   location         : "Nanjing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    :
   email            : "201820098@smail.nju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Lv Xiangxin"
+  github           : "LvXiangxin"
   google_plus      :
   keybase          :
   instagram        :
