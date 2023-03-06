@@ -18,38 +18,57 @@ redirect_from:
 
 ·荣誉：人民奖学金、作品《理想的大学》获得第三届全国大学生校园媒体大赛音频组三等奖
 
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+实习经历 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+南京报业传媒集团-教育事业部实习-2022.06-2022.09
 
-Site-wide configuration
+·实习期间参与多篇稿件采写，发表多篇文章见报，受到高度认可。
+
+实践经历 
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+“南风疆至”长三角四校荣誉学院联合支教团（特别专项）-宣传组组长-2022.05-2022.09
 
-Create content & metadata
+·“南风疆至”支教团队主要负责人之一，担任宣传组组长，主要负责宣传联络媒体和视频拍摄剪辑。与浙大、科大、上交三校同学对接工作并分配任务；作为支教主题微电影《星愿》的导演、编剧、主要拍摄者和主要剪辑。
+
+“拾光红旅人”社会实践 （校级重点）-核心成员-2022.06-2022.09
+
+·赴盐城考察当地红色文化传承和红色教育现状，以盐城市新四军纪念馆为例，并制作知识讲解短视频和研学手册。
+
+“燃烧的火鸟”社会实践 （校级重点）-核心成员-2021.06-2021.11
+
+·赴安徽金寨大湾村实地考察当地多产业创新脱贫、党员对点扶贫及防返贫后续发展，最终生成两万余字调研报告，成果被南青实践转载，结项时最终被评为“优秀社会实践团队”。
+
+南京大学"乡村人居环境治理"国际云科考-核心成员-2022.05-2022.09
+
+·赴南京市溧水区和栖霞区，以及宿迁市四县区进行线下调研，对乡村环境治理的历史、政策执行情况、民众参与情况等展开综合研究，形成访谈记录34896字和调研报告8740字。
+
+
+校园活动 
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+南京大学新闻传播学院团委学生会联合会-宣传联络部副部长-2021.10-2022.10
 
-**Markdown generator**
+·多次组织新闻传播学院的宣传活动。承担迎新晚会的宣传工作，参与组织策划了多次活动，受到热烈反响和广泛好评。
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+·负责新闻传播学院团学联微信公众号的日常运营，参与大部分推送的美编和文编工作。美编累计阅读量4000+。
 
-How to edit your site's GitHub repository
+南京大学FIRE嘻哈音乐协会-兴趣发展部部长-2021.09-2022.09 
+
+·担任FIRE嘻哈协会 2022 年度cypher MV的总导演，全程负责脚本构思、场景选择、视频拍摄、最终剪辑，统筹演员场务10余人，截止目前b站播放量已经超过3500。日常负责社团公众号的运营、海报和周边等的设计工作，在2022“六周年专场”负责宣传和外联工作。
+
+NJU核真录编辑部-社会时政组责编-2022.09至今 
+
+·在NJU核真录、南大新传、新潮三个校园媒体工作，两年来在三个平台撰写并发表多篇优秀稿件，累计阅读50000+。2022-2023学年进入核真录编委会，担任核真录社会时政组的责编。
+
+其他
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+·视频博主：哔哩哔哩up主，创作和参与拍摄作品十余条，累计播放量10000+。
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+·志愿服务：四个学期以来热心参与了十余项志愿项目，累计志愿时长120余小时，并被评为南星梦想计划优秀志愿者等。
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+·语言：通过大学英语四、六级（首考585分），预计在2022年下半年参加雅思考试
+
+·技能：熟悉Python软件，计量分析（SPSS，Excel），办公软件（PPT，word），剪辑软件（PR，Final Cut pro），绘图软件（PS,AI），有网页设计基础
+
+·兴趣爱好：书法（作品曾赴日本展览），足球（20-21赛季南冠冠军成员，信息管理学院足球队队长），说唱，摄影
+
+
